@@ -1,7 +1,7 @@
-apt install build-essential
-apt install geany
-apt install openjdk-9-jdk
-apt install git
+apt install -y build-essential
+apt install -y geany
+apt install -y openjdk-9-jdk
+apt install -y git
 
 #instalar ides varios
 sudo snap install eclipse --classic
